@@ -6,7 +6,7 @@ public class First {
 
        Person student = new Person(35, "Oleg");
        student.age = 35;
-       student.name = "Oleg";
+       student.name = "Oleg1";
        student.goToPtnsion();
        student.sayName();
 
